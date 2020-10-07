@@ -1,6 +1,5 @@
-# 深度学习面试宝典
+# Deeplearning interview and Handbook 
 
-**Deep Learning Interview Book**
 
 - :star: [求职攻略Job Search Track](https://github.com/amusi/AI-Job-Notes)
 - :smiley: [自我介绍Self introduction](docs/自我介绍.md)
