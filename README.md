@@ -20,7 +20,6 @@
 - :bulb: [面试技巧interview Tracks](docs/面试技巧.md)
 - :mega: [其它（计算机网络/Linux等）ablation study](docs/其它.md)
 
-![](docs/imgs/2020年AI算法岗求职群.png)
 
 ![](docs/imgs/DLIB-Mindmap.png)
 
